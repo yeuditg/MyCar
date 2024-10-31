@@ -1,0 +1,7 @@
+E:\MyCar\MyCar\obj\Debug\net8.0\MyCar.csproj.AssemblyReference.cache
+E:\MyCar\MyCar\obj\Debug\net8.0\MyCar.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyCar\MyCar\obj\Debug\net8.0\MyCar.AssemblyInfoInputs.cache
+E:\MyCar\MyCar\obj\Debug\net8.0\MyCar.AssemblyInfo.cs
+E:\MyCar\MyCar\obj\Debug\net8.0\MyCar.csproj.CoreCompileInputs.cache
+E:\MyCar\MyCar\obj\Debug\net8.0\MyCar.MvcApplicationPartsAssemblyInfo.cs
+E:\MyCar\MyCar\obj\Debug\net8.0\MyCar.MvcApplicationPartsAssemblyInfo.cache
